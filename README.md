@@ -1,6 +1,6 @@
 # 🧠 AI Brain Explorer: Does Learning Order Matter?
 
-![WeightBrain](Weightbrain.png)
+![WeightBrain](weightbrain.png)
 
 This project explores a fascinating question: Does the order in which an AI learns change how its artificial "brain"
 gets wired? We test this by training two AI models on a live video feed and watching how their internal structures
